@@ -1,6 +1,7 @@
+// Mock company data
 let company = {
     'name': 'The Adventure Zone',
-    'allowModification': true 
+    'allowModification': true
     };
 
-module.exports = company
+export default company
